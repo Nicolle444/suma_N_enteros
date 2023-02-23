@@ -1,2 +1,10 @@
 # suma_N_enteros
-programa para hallar la suma de los N primeros números enteros positivos 
+Programa para hallar la suma de los N primeros números enteros positivos , usando la formula s=(N[N+1])/2
+
+# Análisis 
+
+# Diseño
+
+## Diagrama de flujo
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+
